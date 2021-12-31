@@ -1,0 +1,51 @@
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.1\Server\bin\Debug\Server.exe
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.1\Server\bin\Debug\Server.pdb
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.1\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.1\Server\obj\Debug\Server.Form1.resources
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.1\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.1\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.1\Server\obj\Debug\Server.exe
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.1\Server\obj\Debug\Server.pdb
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - Kopya\Server\bin\Debug\Server.exe
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - Kopya\Server\bin\Debug\Server.pdb
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - Kopya\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - Kopya\Server\obj\Debug\Server.Server.resources
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - Kopya\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - Kopya\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - Kopya\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - Kopya\Server\obj\Debug\Server.exe
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - Kopya\Server\obj\Debug\Server.pdb
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1\Server\bin\Debug\Server.exe
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1\Server\bin\Debug\Server.pdb
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1\Server\obj\Debug\Server.Server.resources
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1\Server\obj\Debug\Server.exe
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1\Server\obj\Debug\Server.pdb
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1 - Kopya - Kopya\Server\bin\Debug\Server.exe
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1 - Kopya - Kopya\Server\bin\Debug\Server.pdb
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1 - Kopya - Kopya\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1 - Kopya - Kopya\Server\obj\Debug\Server.Server.resources
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1 - Kopya - Kopya\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1 - Kopya - Kopya\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1 - Kopya - Kopya\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1 - Kopya - Kopya\Server\obj\Debug\Server.exe
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1 - Kopya - Kopya\Server\obj\Debug\Server.pdb
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1\Server\bin\Debug\MetroFramework.dll
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1\Server\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 1\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 3 - yeni\Server\bin\Debug\Server.exe
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 3 - yeni\Server\bin\Debug\Server.pdb
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 3 - yeni\Server\bin\Debug\MetroFramework.dll
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 3 - yeni\Server\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 3 - yeni\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 3 - yeni\Server\obj\Debug\Server.Server.resources
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 3 - yeni\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 3 - yeni\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 3 - yeni\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 3 - yeni\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 3 - yeni\Server\obj\Debug\Server.exe
+C:\Users\Görkem\Desktop\yazılım sınama proje\yazilim_sinama_v1.2 - 3 - yeni\Server\obj\Debug\Server.pdb
